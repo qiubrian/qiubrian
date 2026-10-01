@@ -13,20 +13,20 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Computer Science student at **Texas A&M University** with a minor in **Cybersecurity**
-- 🔬 Software Engineer Intern at the **Texas A&M Cybersecurity Center**
-- 🦠 Currently working on [AutoStreamYara](https://github.com/marcusbotacin/AutoStreamYara), an open-source streaming malware classification system
-- 🌐 Exploring **network security, threat detection, and traffic analysis with Zeek**
-- 🧠 Interested in **software engineering, cybersecurity, machine learning, networking, and distributed systems**
-- ⚙️ I enjoy building systems that process large datasets and improving their **performance, reliability, and scalability**
+- Computer Science student at **Texas A&M University** with a minor in **Cybersecurity**
+- Researcher at the **Texas A&M Cybersecurity Center**
+- Currently working on [AutoStreamYara](https://github.com/marcusbotacin/AutoStreamYara), an open-source streaming malware classification system
+- Exploring **network security, threat detection, and traffic analysis with Zeek**
+- Interested in **software engineering, cybersecurity, machine learning, networking, and distributed systems**
+- I enjoy building systems that process large datasets and improving their **performance, reliability, and scalability**
 
 ---
 
-### 🚀 What I'm Working On
+### What I'm Working On
 
-#### 🦠 AutoStreamYara
+#### AutoStreamYara
 Open-source malware classification research combining **machine learning and YARA-based detection**.
 
 - Building streaming malware classification pipelines
@@ -35,19 +35,23 @@ Open-source malware classification research combining **machine learning and YAR
 - Generating and evaluating YARA rules
 - Optimizing experiments and data processing with multiprocessing
 
-#### 🌐 Zeek Network Activity Monitor
+#### Zeek Network Activity Monitor
 Building a network security system using **Zeek** to analyze traffic and identify suspicious behavior.
 
 - Network traffic logging and analysis
 - Attack and reconnaissance detection
 - Simulating security events for detection testing
 
-#### 🔐 Distributed Secure Vault
-Experimenting with distributed security and authentication.
+#### Rainbow 6 Siege Gadget Placement Tool
+Building an end-to-end platform where Rainbow Six Siege players can view and upload gadget placement videos for different maps, sites, and operators.
 
-- Shamir Secret Sharing
-- Passwordless authentication
-- Secure data distribution across independent nodes
+- Building the frontend and backend for uploading, storing, and retrieving gadget placement videos
+
+- Designing a structured data system for maps, bomb sites, operators, gadgets, and video metadata
+
+- Developing APIs and database queries to filter and retrieve placements based on map, site, and operator
+
+- Creating an intuitive interface that lets players quickly find useful setups without searching through long videos or guides
 
 ---
 
@@ -71,7 +75,7 @@ Experimenting with distributed security and authentication.
 
 ---
 
-### 🔨 Areas I Enjoy Working In
+### Areas I Enjoy Working In
 
 ```text
 Software Engineering     ████████████████████
@@ -83,7 +87,7 @@ Data Engineering         ████████████████░░�
 
 ---
 
-### 📊 GitHub
+### GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qiubrian&show_icons=true&hide_border=true" height="165" />
@@ -92,7 +96,7 @@ Data Engineering         ████████████████░░�
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 I'm always interested in talking about **software engineering, security, networking, ML, or interesting technical projects**.
 
