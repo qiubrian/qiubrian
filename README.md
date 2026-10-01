@@ -55,7 +55,7 @@ Building an end-to-end platform where Rainbow Six Siege players can view and upl
 
 ---
 
-### 🛠️ Languages & Technologies
+### Languages & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,go,rust,swift,html" />
@@ -75,30 +75,8 @@ Building an end-to-end platform where Rainbow Six Siege players can view and upl
 
 ---
 
-### Areas I Enjoy Working In
-
-```text
-Software Engineering     ████████████████████
-Cybersecurity            ████████████████████
-Systems & Networking     ██████████████████░░
-Machine Learning         ██████████████████░░
-Data Engineering         ████████████████░░░░
-```
-
----
-
-### GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qiubrian&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiubrian&layout=compact&hide_border=true" height="165" />
-</p>
-
----
 
 ### Connect With Me
-
-I'm always interested in talking about **software engineering, security, networking, ML, or interesting technical projects**.
 
 - LinkedIn: [linkedin.com/in/brian-qiu](https://linkedin.com/in/brian-qiu)
 - GitHub: [github.com/qiubrian](https://github.com/qiubrian)
